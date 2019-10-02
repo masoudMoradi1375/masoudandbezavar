@@ -1,7 +1,9 @@
 <?php
 
 
-echo 'hello hony';
 
 
-?>
+
+
+echo "hello"; 
+
